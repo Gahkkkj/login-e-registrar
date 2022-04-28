@@ -14,24 +14,27 @@
 
 <body class="perfil-body">
 
-<img src="imagens/mulher.png" class="circle" >
+    <img src="imagens/mulher.png" class="circle"> desgraça </img>
 
 
-
-    <section class="perfil-borda text-center text-light">
-        <h1>Perfil</h1>
-        <div class="bd-perfil overflow:auto">
-            <div class="menu col-mb-12">
-                <a href="Cadastrar.php" class="btn btn-light">Pedidos</a>
-                <a href="Cadastrar.php" class="btn btn-light">Reenbolsar</a>
-                <a href="Cadastrar.php" class="btn btn-light">Favoritos</a>
-                <a href="Cadastrar.php" class="btn btn-light">Avaliar</a>
-                <a href="Cadastrar.php" class="btn btn-light">alterar dados</a>
-                <a href="Cadastrar.php" class="btn btn-light">avisos</a>
-                <a href="Cadastrar.php" class="btn btn-light">formas de pagamento</a>
-                <a href="Cadastrar.php" class="btn btn-light">Sair</a>
-                <div>
-            </div>
+    <section class="mb-3">
+    <button type="button" class="btn btn-light btn-lg btn-block">Pedidos</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Reenbolsar</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Favoritos</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Avaliar</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Alterar dados</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Avisos</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Formas de pagamento</button>
+    <br>
+    <button type="button" class="btn btn-light btn-lg btn-block">Sair</button>
+    <br>
+ 
     </section>
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
