@@ -19,7 +19,7 @@
   /*===== z index =====*/
   --z-fixed: 100;
 }
-/* principal ----------------------------------------------------------------*/
+/* principal login ----------------------------------------------------------------*/
 body {
   display: grid;
   grid-template-rows: 1fr auto;
@@ -65,6 +65,15 @@ color: #f8f9fa!important;
 padding: 10px 20px 100px;
 }
 /* ---------------------------//----------------------- */
+
+/* perfil inicio---------------------------------------------- */
+.perfil-body{
+  background-color: #070D1F;
+  
+}
+
+
+/* perfil-final -----------------------------------------------*/
 @media screen and (min-width: 768px) {
   :root {
     --normal-font-size: 1rem;

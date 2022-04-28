@@ -16,7 +16,7 @@
 <body>
 
 
-    <div class="rounded mx-auto d-block">
+    <div class="mx-auto d-block">
         <H1 class="ttcadastro">Cadastre-se</h1>
             <i class='fab fa-facebook' style='font-size:48px;'></i>
             <i class='fab fa-twitter-square' style='font-size:48px;'></i>
