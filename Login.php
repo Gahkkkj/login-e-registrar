@@ -14,15 +14,17 @@
 </head>
 
 <body>
-  <div class="container m-auto text-light">
-  <div class="container">
-  <H1>Login</h1>
-  
-  <i class='fab fa-facebook' style='font-size:48px;'></i>
-  <i class='fab fa-twitter-square' style='font-size:48px;'></i>
-  <i class='fab fa-google-plus' style='font-size:48px;'></i>
 
-</div>
+  <div class="container-lg text-center">
+    <H1>login</h1>
+    <div>
+      <i class='fab fa-facebook' style='font-size:48px;'></i>
+      <i class='fab fa-twitter-square' style='font-size:48px;'></i>
+      <i class='fab fa-google-plus' style='font-size:48px;'></i>
+    </div>
+  </div>
+
+  <div class="container m-auto text-light">
 
     <section class="formulario">
       <form>
@@ -36,7 +38,7 @@
           <input type="password" class="form-control" id="exampleInputPassword1">
         </div>
 
-        <button type="login" class="btn btn-primary">login</button>
+        <button type="login" class="btn mb-3 btn-primary">login</button>
       </form>
 
 
@@ -44,7 +46,7 @@
 
 
       <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
   </div>
 </body>
 

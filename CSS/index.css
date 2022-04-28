@@ -127,7 +127,7 @@ content: '';
 width: 0%;
 height: 100%;
 display: block;
-background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+background: linear-gradient(-45deg, #ee7752, #e73c7e, #2f137a, #2394d5);
 position: absolute;
 -ms-transform: skewX(-20deg);
 -webkit-transform: skewX(-20deg); 
