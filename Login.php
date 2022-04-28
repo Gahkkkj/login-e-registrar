@@ -42,7 +42,7 @@
       </form>
 
 
-      <a href="Cadastrar.php" class="btn btn-outline-dark">Não é cadastradp ainda? cadastre-se aqui</a>
+      <a href="Cadastrar.php" class="btn btn-outline-dark">Não é cadastrado ainda? cadastre-se aqui</a>
 
 
       <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

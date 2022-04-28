@@ -68,7 +68,7 @@
                 </div>
 
 
-                <button type="submit" class="btn btn-primary">Logar</button>
+                <a href="Login.php" class="btn btn-primary">Logar</a>
             </form>
         </section>
         <!-- icons -->
