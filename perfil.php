@@ -14,27 +14,31 @@
 
 <body class="perfil-body">
 
-    <img src="imagens/mulher.png" class="circle"> desgraça </img>
+    <img src="imagens/mulher.png" class="circle">
 
 
     <section class="mb-3">
-    <button type="button" class="btn btn-light btn-lg btn-block">Pedidos</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Reenbolsar</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Favoritos</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Avaliar</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Alterar dados</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Avisos</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Formas de pagamento</button>
-    <br>
-    <button type="button" class="btn btn-light btn-lg btn-block">Sair</button>
-    <br>
- 
+        <div class="d-flex flex-row bd-highlight mb-3">
+            <button type="button" class="btn btn-light mr-3 p-2 btn-lg pequeno">Pedidos</button>
+            <br>
+            <button type="button" class="btn btn-light mr-3 p-2 btn-lg pequeno">Reenbolsar</button>
+            <br>
+        </div>
+        <div class="d-flex flex-row bd-highlight mb-3">
+        <button type="button" class="btn btn-light btn-lg mr-3 p-2 pequeno">Favoritos</button>
+        <br>
+        <button type="button" class="btn btn-light btn-lg mr-3 p-2 pequeno">Avaliar</button>
+        <br>
+        </div>
+        <button type="button" class="btn btn-light btn-lg btn-block grande">Alterar dados</button>
+        <br>
+        <button type="button" class="btn btn-light btn-lg btn-block grande">Avisos</button>
+        <br>
+        <button type="button" class="btn btn-light btn-lg btn-block grande">Formas de pagamento</button>
+        <br>
+        <button type="button" class="btn btn-light btn-lg btn-block grande">Sair</button>
+        <br>
+
     </section>
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

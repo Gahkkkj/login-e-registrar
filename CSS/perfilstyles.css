@@ -8,3 +8,11 @@
     background: #00417D;
     box-sizing: border-box;
 }
+
+.grande {
+    width:500px;
+}
+
+.pequeno {
+    width: 240px;
+}
