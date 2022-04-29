@@ -10,9 +10,15 @@
 }
 
 .grande {
+   
+    
     width:500px;
 }
 
 .pequeno {
+    display: flex;
+    flex-direction: column;
+    
+    
     width: 240px;
 }
