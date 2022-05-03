@@ -27,7 +27,7 @@
   }
 }
 
-body {
+.bodypage1 {
     display: grid;
     grid-template-rows: 1fr auto;
     grid-template-areas: "main" "footer";

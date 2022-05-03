@@ -13,7 +13,7 @@
     <title>Cadastrar-se</title>
 </head>
 
-<body>
+<body class="bodypage1">
     <div class="container m-auto text-light">
         <section class="formulario">
             <form>
